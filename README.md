@@ -1,4 +1,4 @@
-This repository provides a minimum reproducible example of an unexpected behavior exhibited by the `GcsBucket` class from the `prefect-gcp` package.
+This repository provides a minimal reproducible example of an unexpected behavior exhibited by the `GcsBucket` class from the `prefect-gcp` package.
 
 ## Setup
 
